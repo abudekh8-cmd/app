@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npx expo export --platform web",
-  "outputDirectory": "dist",
+  "buildCommand": "npx expo start --web --non-interactive",
+  "outputDirectory": "web-build",
   "framework": null
 }
